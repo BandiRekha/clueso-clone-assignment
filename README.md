@@ -40,10 +40,10 @@ Each component is designed with clear separation of concerns and scalable design
 ---
 
 ## Repositories
-- Frontend Application: https://github.com/USERNAME/clueso-frontend
-- Backend Node.js Service: https://github.com/USERNAME/clueso-backend
-- Browser Extension Layer: https://github.com/USERNAME/clueso-extension
-- AI Integration Component: https://github.com/USERNAME/clueso-ai-service
+- Frontend Application: https://github.com/BandiRekha/clueso-frontend
+- Backend Node.js Service: https://github.com/BandiRekha/clueso-backend
+- Browser Extension Layer: https://github.com/BandiRekha/clueso-extension
+- AI Integration Component: https://github.com/BandiRekha/clueso-ai-service
 
 > Note: Replace USERNAME with your GitHub username.
 
